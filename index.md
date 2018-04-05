@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Table of contents
+* [About LanguagePals](#about-languagepals)
+* [Goals](#goals)
 
-You can use the [editor on GitHub](https://github.com/languagepals/languagepals/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# About LanguagePals
+The problem: UH has a second language requirement, but it is often difficult to find people to practice the language with, even though the large number of foreign students means there is a large potential pool of candidates (who might, in turn, want to practice their English).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The solution: LanguagePals will match up students who are fluent in English and need practice in a foreign language with students who are fluent in the foreign language but need practice in English. 
 
-### Markdown
+# Goals
+Students can create a profile with the language(s) they want to practice and constraints on when they can get together with another person. A profile can be displayed as a card in a list of results of a search. Perhaps a search result for student who match with your search can look similar to bowfolios' directory page:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](images/directory.png)
 
-```markdown
-Syntax highlighted code block
+It can also be possible to meet virtually through Skype or some other communication app. Each user profile could have a calendar with available meeting times over specified mediums that the user maintains. Then another user could ask to set up a meeting with another user by clicking on their calendar. Maybe it could look something like fareharbors system for scheduling:
 
-# Header 1
-## Header 2
-### Header 3
+![](images/fareharboravailabilty.png)
 
-- Bulleted
-- List
+The system will also provide example “talk story” session outlines to help the meetups be productive.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/languagepals/languagepals/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
