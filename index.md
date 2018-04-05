@@ -12,6 +12,9 @@ The solution: LanguagePals will match up students who are fluent in English and 
 ## Charles Dickens
 Hello, I am a Junior Computer Engineering student at UH Manoa with a variety of interests related to Engineering and Computer Science. Currently I am working on projects related to Data Analysis. My goals for this project are to build a user friendly application that can be used to connect people who want to share their knowledge and practice new language skills. I hope to develop skills in project management and planning, version control tools, and application design. Skills and positive attributes that I will contribute to the team include a good work ethic and attitude, leadership, and a developing knowledge of JavaScript, React, Semantic UI, Meteor, and Mongo DB.
 
+## Nathan Onaka
+I am a Junior at UH Manoa majoring in Computer Science, with interests in software design, security, and computer networking.  I picked this project because many of my friends and I are learning 2nd languages, and having an application like this would be fun and helpful to use.  While working on this project I hope to improve my time management and design skills.  My experience with teamwork and JavaScript will help us to achieve our goal of completing this application.
+
 # Goals
 Students can create a profile with the language(s) they want to practice and constraints on when they can get together with another person. A profile can be displayed as a card in a list of results of a search. Perhaps a search result for student who match with your search can look similar to bowfolios' directory page:
 
