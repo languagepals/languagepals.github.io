@@ -1,7 +1,3 @@
-# Table of contents
-* [About LanguagePals](#about-languagepals)
-* [Goals](#goals)
-
 # About LanguagePals
 The problem: UH has a second language requirement, but it is often difficult to find people to practice the language with, even though the large number of foreign students means there is a large potential pool of candidates (who might, in turn, want to practice their English).
 
@@ -25,4 +21,13 @@ It can also be possible to meet virtually through Skype or some other communicat
 ![](fareharboravailabilty.png)
 
 The system will also provide example “talk story” session outlines to help the meetups be productive.
+
+# Milestone 1
+This milestone started on Friday April 6th, 2018 and was completed on Thursday April 12th, 2018.
+
+Our first milestone for the language pals app was to build a working version with the minimal features. Visit this link to the M1 Project page with the detailed issues we finished [Language Pals Milestone 1 Project](https://github.com/languagepals/languagepals/projects/1). 
+
+What we implmented was the landing page seen here:
+
+
 
