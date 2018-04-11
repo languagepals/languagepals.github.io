@@ -23,7 +23,7 @@ A returning user can sign in from the landing page using the Login button in the
 
 ![](signInPage.png)
 
-If this is the first time a user is Loging into the app then they can select the sign-up option from the Login dropdown at the landing page navbar. They will be take to Sign-up page where they enter their information for the app:
+If this is the first time a user is Logging into the app then they can select the sign-up option from the Login dropdown at the landing page navbar. They will be take to Sign-up page where they enter their information for the app:
 ![](signUpPage.png)
 
 Once the user is logged in they can access the List-Pals page by clicking on the List-Pals button in the Nav-Bar. This page lists all the users of the app with their description, image, e-mail, and languages:
