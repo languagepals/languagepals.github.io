@@ -33,16 +33,6 @@ The edit pals page:
 
 And the lastly the list and edit pals pages for the administrator:
 
-
-# Goals
-Students can add constraints on when they can get together with another person to their profile to be displayed. 
-
-A convienent feature would be to search for students with specific availibilties and language skills.  
-
-The system could also provide example “talk story” session outlines to help the meetups be productive.
-
-Another feature could be to add a meeting component for users with information such as who you are meeting with, when you are meeting, where/how, and notes of the meeting. This component can be accessed by whoever "attended" the meeting. A user can make a meeting and add different users. This meeting can be editted, kept after the actual meeting for your record or deleted. 
-
 # Milestone 1
 This milestone started on Friday April 6th, 2018 and was completed on Thursday April 12th, 2018.
 
@@ -51,8 +41,14 @@ Our first milestone for the language pals app was to build a working version wit
 # Milestone 2
 This milestone started on Thursday April 12th, 2018.
 
+Our Goals for this milestone are to add features so that:
 
+-students can add constraints on when they can get together with another person to their profile to be displayed. 
 
+-The ability to search/filter for students with specific availibilties and language skills.  
 
+-A page of example “talk story” session outlines to help the meetups be productive.
 
+-Addition of a meetings page and components for users to hold information such as who you are meeting with, when you are meeting, where/how, and notes of the meeting. This component can be accessed by whoever "attended" the meeting. A user can make a meeting and add different users. This meeting can be editted, kept after the actual meeting for your record or deleted. 
 
+-The ability for the admin to delete profiles
