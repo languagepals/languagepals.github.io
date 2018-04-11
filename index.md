@@ -31,7 +31,7 @@ Once the user is logged in they can access the List-Pals page by clicking on the
 ![](listPalsPage.png)
 
 The edit pals page:
-![](editPalsPage.png)
+![](editProfilePage.png)
 
 And the lastly the list and edit pals pages for the administrator:
 ![](adminPalsPage.png)
