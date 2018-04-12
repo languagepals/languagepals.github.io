@@ -1,4 +1,7 @@
 # About LanguagePals
+
+[Language Pals](http://languagepals.meteorapp.com)
+
 The problem: UH has a second language requirement, but it is often difficult to find people to practice the language with, even though the large number of foreign students means there is a large potential pool of candidates (who might, in turn, want to practice their English).
 
 The solution: LanguagePals will match up students who are fluent in, for example, English and need practice in a foreign language, with students who are fluent in the foreign language but need practice in English. We at LanguagePals know that the best way to learn a new language is by practicing with a skilled speaker.
