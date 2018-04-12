@@ -55,8 +55,6 @@ Our Goals for this milestone are to add features so that:
 
 -The ability to search/filter for students with specific availibilties and language skills.  
 
--A page of example “talk story” session outlines to help the meetups be productive.
-
 -Addition of a meetings page and components for users to hold information such as who you are meeting with, when you are meeting, where/how, and notes of the meeting. This component can be accessed by whoever "attended" the meeting. A user can make a meeting and add different users. This meeting can be editted, kept after the actual meeting for your record or deleted. 
 
 -The ability for the admin to delete profiles
