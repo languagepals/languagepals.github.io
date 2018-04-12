@@ -14,6 +14,9 @@ Hello, I am a Junior Computer Engineering student at UH Manoa with a variety of 
 ## Nathan Onaka
 I am a Junior at UH Manoa majoring in Computer Science, with interests in software design, security, and computer networking.  I picked this project because many of my friends and I are learning 2nd languages, and having an application like this would be fun and helpful to use.  While working on this project I hope to improve my time management and design skills.  My experience with teamwork and JavaScript will help us to achieve our goal of completing this application.
 
+## Jiaqi Li
+I am a Junior Computer Science student at UH Manoa with computer related interests such as software developing and cybersecurity. I wish to better understand software-design tools such as React, Semantic UI, Meteor, and Mongo DB, as well as to develop skills such as project management through the process of building our Languagepals application.
+
 # Current State
 
 So far we have here the landing page:
