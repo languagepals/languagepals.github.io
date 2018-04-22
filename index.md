@@ -1,4 +1,4 @@
-# About LanguagePals
+# Overview of LanguagePals
 
 [Language Pals](http://languagepals.meteorapp.com)
 
@@ -6,16 +6,11 @@ The problem: UH has a second language requirement, but it is often difficult to 
 
 The solution: LanguagePals will match up students who are fluent in, for example, English and need practice in a foreign language, with students who are fluent in the foreign language but need practice in English. We at LanguagePals know that the best way to learn a new language is by practicing with a skilled speaker.
 
-# About Our Team
+# User Guide
 
-## Charles Dickens
-Hello, I am a Junior Computer Engineering student at UH Manoa with a variety of interests related to Engineering and Computer Science. Currently I am working on projects related to Data Analysis. My goals for this project are to build a user friendly application that can be used to connect people who want to share their knowledge and practice new language skills. I hope to develop skills in project management and planning, version control tools, and application design. Skills and positive attributes that I will contribute to the team include a good work ethic and attitude, leadership, and a developing knowledge of JavaScript, React, Semantic UI, Meteor, and Mongo DB.
+# Community Feedback
 
-## Nathan Onaka
-I am a Junior at UH Manoa majoring in Computer Science, with interests in software design, security, and computer networking.  I picked this project because many of my friends and I are learning 2nd languages, and having an application like this would be fun and helpful to use.  While working on this project I hope to improve my time management and design skills.  My experience with teamwork and JavaScript will help us to achieve our goal of completing this application.
-
-## Jiaqi Li
-I am a Junior Computer Science student at UH Manoa with computer related interests such as software developing and cybersecurity. I wish to better understand software-design tools such as React, Semantic UI, Meteor, and Mongo DB, as well as to develop skills such as project management through the process of building our Languagepals application.
+# Developer Guide
 
 # Current State
 
@@ -61,3 +56,15 @@ Our Goals for this milestone are to add features so that:
 -Addition of a meetings page and components for users to hold information such as who you are meeting with, when you are meeting, where/how, and notes of the meeting. This component can be accessed by whoever "attended" the meeting. A user can make a meeting and add different users. This meeting can be editted, kept after the actual meeting for your record or deleted. 
 
 -The ability for the admin to delete profiles
+
+# About Our Team
+
+## Charles Dickens
+Hello, I am a Junior Computer Engineering student at UH Manoa with a variety of interests related to Engineering and Computer Science. Currently I am working on projects related to Data Analysis. My goals for this project are to build a user friendly application that can be used to connect people who want to share their knowledge and practice new language skills. I hope to develop skills in project management and planning, version control tools, and application design. Skills and positive attributes that I will contribute to the team include a good work ethic and attitude, leadership, and a developing knowledge of JavaScript, React, Semantic UI, Meteor, and Mongo DB.
+
+## Nathan Onaka
+I am a Junior at UH Manoa majoring in Computer Science, with interests in software design, security, and computer networking.  I picked this project because many of my friends and I are learning 2nd languages, and having an application like this would be fun and helpful to use.  While working on this project I hope to improve my time management and design skills.  My experience with teamwork and JavaScript will help us to achieve our goal of completing this application.
+
+## Jiaqi Li
+I am a Junior Computer Science student at UH Manoa with computer related interests such as software developing and cybersecurity. I wish to better understand software-design tools such as React, Semantic UI, Meteor, and Mongo DB, as well as to develop skills such as project management through the process of building our Languagepals application.
+
