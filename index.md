@@ -8,12 +8,6 @@ The solution: LanguagePals will match up students who are fluent in, for example
 
 # User Guide
 
-# Community Feedback
-
-# Developer Guide
-
-# Current State
-
 So far we have here the landing page:
 
 ![](landingPage.png)
@@ -37,6 +31,10 @@ The edit pals page:
 And the lastly the list and edit pals pages for the administrator:
 ![](adminPalsPage.png)
 ![](adminEditPalsPage.png)
+
+# Community Feedback
+
+# Developer Guide
 
 # Milestone 1
 This milestone started on Friday April 6th, 2018 and was completed on Thursday April 12th, 2018.
