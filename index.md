@@ -8,7 +8,7 @@ The solution: LanguagePals will match up students who are fluent in, for example
 
 # User Guide
 
-So far we have here the landing page:
+The user is first welcomed at our landing page:
 ![](landingPage.png)
 
 This page greets the user and describes the app. It also has a Login dropdown with signin and signup links for the user.
