@@ -34,8 +34,13 @@ If a user wants to change their existing profile they can visit the edit profile
 If a user no longer wants their profile to be active then they can deavtivate it from the edit profile page:
 ![](editProfilePageDeactivate.png)
 
-And the lastly we have an administrator account which can view all the active and deactive profiles and has the ability to edit and deactivate all profiles:
-![](adminPalsPage.png)
+If They click on that button they will be taken to the a page for confirmation. It is clarified that they will need to create a new profle after this action:
+![](deactivatePage.png)
+
+Their data is kept however, and when the user wants to re-activate their profile the fields in the create profile page will be already filled out and the user will just need to submit if they do not want to change their profile information.
+
+Lastly we have an administrator account which can view all the active and deactive profiles and has the ability to edit and deactivate all profiles:
+![](adminListPals.png)
 
 # Community Feedback
 
