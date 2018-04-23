@@ -14,7 +14,7 @@ So far we have here the landing page:
 
 This page greets the user and describes the app. It also has a Login dropdown with signin and signup links for the user.
 
-A returning user can sign in from the landing page using the Login button in the navbar. They will be taken to the sign in page where they must enter there email and password:
+A returning user can sign in from the landing page using the Login button in the navbar. They will be taken to the sign in page where they enter there email and password:
 
 ![](signInPage.png)
 
@@ -22,11 +22,16 @@ If this is the first time a user is Logging into the app then they can select th
 ![](signupPage.png)
 
 Once the user is logged in they can access the List-Pals page by clicking on the List-Pals button in the Nav-Bar. This page lists all the users of the app with their description, image, e-mail, and languages:
-
 ![](listPalsPage.png)
 
-The edit pals page:
+From the List-Pals page a user can make a customized search for users based on their practice languages and fluent languages by clicking on the search for pals page to reveal the search menu, un-checking all, and submitting a query.
+![](listPalsPageSearch.png)
+
+If a user wants to change their existing profile they can visit the edit profile page by clicking on the edit profile link from the profile dropdown located in the navbar:
 ![](editProfilePage.png)
+
+If a user no longer wants their profile to be active then they can deavtivate it from the edit profile page:
+![](editProfilePageDeactivate.png)
 
 And the lastly the list and edit pals pages for the administrator:
 ![](adminPalsPage.png)
