@@ -69,7 +69,9 @@ Our Goals for this milestone are to add features so that:
 
 # Community Feedback
 
-> "I'd like options to leave feedback or notes on for the person I'm meeting with, and maybe links to resources for the language I want to learn" - Haroun Zuhir, Junior, Architecture  Major
+> "I'd like options to leave feedback or notes on for the person I'm meeting with, and maybe links to resources for the language I want to learn" - Haroun Z.  Junior at UH, Architecture Major
+
+> "Maybe a way to specify their proficiency in the fluent language, or list things they already know for the practice language.  So that they have a better understanding of what level each other are at" - Courtney G.  Junior at UH, Japanese Major
 
 
 
