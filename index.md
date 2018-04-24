@@ -48,6 +48,12 @@ Lastly we have an administrator account which can view all the active and deacti
 
 > "Maybe a way to specify their proficiency in the fluent language, or list things they already know for the practice language.  So that they have a better understanding of what level each other are at" | - Courtney G. Junior at UH, Japanese Major
 
+> "I wished the website was a little easier to navigate, more descriptive buttons and links." | - Kealohi A. Junior at UH, Nursing Major
+
+> "I like being able to search for people and the design of the website. I would like more pages, like a whole profile page with more information about the person we could get to from the List Pals page" | - Hans S. Senior at UH, Political Science Major
+
+> "I would like to have suggested resources for the language I want to learn, and maybe a clear way to organize a meeting with my pals" | - Lilly A. Junior at UH, Nursing Major
+
 # Developer Guide
 
 First, [install Meteor](https://www.meteor.com/install).
