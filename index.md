@@ -67,6 +67,12 @@ Our Goals for this milestone are to add features so that:
 
 -The ability for the admin to delete profiles
 
+# Community Feedback
+
+> "I'd like options to leave feedback or notes on for the person I'm meeting with, and maybe links to resources for the language I want to learn" - Haroun Zuhir, Junior, Architecture  Major
+
+
+
 # About Our Team
 
 ## Charles Dickens
