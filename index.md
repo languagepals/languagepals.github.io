@@ -73,7 +73,25 @@ Our Goals for this milestone are to add features so that:
 
 > "Maybe a way to specify their proficiency in the fluent language, or list things they already know for the practice language.  So that they have a better understanding of what level each other are at" - Courtney G. | Junior at UH, Japanese Major
 
+# Developer Guide
 
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, clone or download a copy of [LanguagePals](https://github.com/languagepals/languagepals) from Github.
+  
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+
+Fourth, run the app with:
+
+```
+$ meteor npm run start
+```
+
+The application will then be live at [http://localhost:3000](http://localhost:3000).
 
 # About Our Team
 
