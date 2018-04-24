@@ -57,7 +57,9 @@ This milestone started on Thursday April 12th, 2018.
 
 Our Goals for this milestone are to add features so that:
 
--students can add constraints on when they can get together with another person to their profile to be displayed. 
+-Students can add constraints on when they can get together with another person to their profile to be displayed. 
+
+-Students can add meeting preferences
 
 -The ability to search/filter for students with specific availibilties and language skills.  
 
