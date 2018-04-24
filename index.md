@@ -44,7 +44,26 @@ Lastly we have an administrator account which can view all the active and deacti
 
 # Community Feedback
 
+> "I'd like options to leave feedback or notes on for the person I'm meeting with, and maybe links to resources for the language I want to learn" | - Haroun Z.  Junior at UH, Architecture Major
+
+> "Maybe a way to specify their proficiency in the fluent language, or list things they already know for the practice language.  So that they have a better understanding of what level each other are at" | - Courtney G. Junior at UH, Japanese Major
+
 # Developer Guide
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, clone or download a copy of [LanguagePals](https://github.com/languagepals/languagepals) from Github.
+  
+Third, cd into the app/ directory and install libraries with:
+
+```
+$ meteor npm install
+```
+Fourth, run the app with:
+```
+$ meteor npm run start
+```
+The application will then be live at [http://localhost:3000](http://localhost:3000).
 
 # Milestone 1
 This milestone started on Friday April 6th, 2018 and was completed on Thursday April 12th, 2018.
@@ -66,32 +85,6 @@ Our Goals for this milestone are to add features so that:
 -Addition of a meetings page and components for users to hold information such as who you are meeting with, when you are meeting, where/how, and notes of the meeting. This component can be accessed by whoever "attended" the meeting. A user can make a meeting and add different users. This meeting can be editted, kept after the actual meeting for your record or deleted. 
 
 -The ability for the admin to delete profiles
-
-# Community Feedback
-
-> "I'd like options to leave feedback or notes on for the person I'm meeting with, and maybe links to resources for the language I want to learn" - Haroun Z. | Junior at UH, Architecture Major
-
-> "Maybe a way to specify their proficiency in the fluent language, or list things they already know for the practice language.  So that they have a better understanding of what level each other are at" - Courtney G. | Junior at UH, Japanese Major
-
-# Developer Guide
-
-First, [install Meteor](https://www.meteor.com/install).
-
-Second, clone or download a copy of [LanguagePals](https://github.com/languagepals/languagepals) from Github.
-  
-Third, cd into the app/ directory and install libraries with:
-
-```
-$ meteor npm install
-```
-
-Fourth, run the app with:
-
-```
-$ meteor npm run start
-```
-
-The application will then be live at [http://localhost:3000](http://localhost:3000).
 
 # About Our Team
 
