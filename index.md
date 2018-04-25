@@ -77,7 +77,7 @@ This milestone started on Friday April 6th, 2018 and was completed on Thursday A
 Our first milestone for the language pals app was to build a working version with the minimal features. Visit this link to the M1 Project page with the detailed issues we finished [Language Pals Milestone 1 Project](https://github.com/languagepals/languagepals/projects/1). For this milestone we built a landing page, a sign-in page, a sign-up page, a list pals page, an edit profile page, and some admin capabilities. 
 
 # Milestone 2
-This milestone started on Thursday April 12th, 2018.
+This milestone started on Thursday April 12th, 2018, and was completed on Tuesday April 24th, 2018.
 [Language Pals Milestone 2 Project](https://github.com/languagepals/languagepals/projects/2)
 
 Our Goals for this milestone are to add features so that:
