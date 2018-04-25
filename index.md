@@ -84,13 +84,19 @@ Our Goals for this milestone are to add features so that:
 
 -Students can add constraints on when they can get together with another person to their profile to be displayed. 
 
--Students can add meeting preferences
+-Students can add preferences for meeting in person, over skype, or phone
 
 -The ability to search/filter for students with specific availibilties and language skills.  
 
--Addition of a meetings page and components for users to hold information such as who you are meeting with, when you are meeting, where/how, and notes of the meeting. This component can be accessed by whoever "attended" the meeting. A user can make a meeting and add different users. This meeting can be editted, kept after the actual meeting for your record or deleted. 
-
 -The ability for the admin to delete profiles
+
+# Milestone 3
+This milestone started on Tuesday April 24th, 2018.
+[Language Pals Milestone 2 Project](https://github.com/languagepals/languagepals/projects/3)
+
+Our Goals for this milestone are to add features so that:
+
+-Addition of a meetings page and components for users to hold information such as who you are meeting with, when you are meeting, where/how, and notes of the meeting. This component can be accessed by whoever "attended" the meeting. A user can make a meeting and add different users. This meeting can be editted, kept after the actual meeting for your record or deleted. 
 
 # About Our Team
 
