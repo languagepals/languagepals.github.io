@@ -42,7 +42,7 @@ Their data is kept however, and when the user wants to re-activate their profile
 Lastly we have an administrator account which can view all the active and deactive profiles and has the ability to edit and deactivate all profiles:
 ![](adminListPals.png)
 
-# Community Feedback
+# Initial User Study
 
 > "I'd like options to leave feedback or notes on for the person I'm meeting with, and maybe links to resources for the language I want to learn" | - Haroun Z.  Junior at UH, Architecture Major
 
