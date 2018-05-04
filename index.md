@@ -29,13 +29,13 @@ Or the user can click the Your Matches Button to display all the users that want
 ![](listPalsYourMatches.png)
 
 Users can click the Add Meeting button to setup a meeting with other members, they can specify time, place, language, and additional notes.
-![](addMeeting.png)
+![](addMeeting.PNG)
 
 Once meetings have been made if they click the Your Meetings button it will show all of their meetings that they have made or been invited to.
-![](yourMeetings.png)
+![](yourMeetings.PNG)
 
 From this page you can edit the meeting details, but more importantly you can invite member to join by clicking the Add Members button on the meeting cards.
-![](addMembers.png)
+![](addMembers.PNG)
 
 If a user wants to change their existing profile they can visit the edit profile page by clicking on the edit profile link from the profile dropdown located in the navbar:
 ![](editProfilePage.png)
