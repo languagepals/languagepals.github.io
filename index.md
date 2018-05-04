@@ -28,6 +28,15 @@ From the List-Pals page a user can make a customized search for users based on t
 Or the user can click the Your Matches Button to display all the users that want to practice the language the user is fluent in and are fluent in the language the user wants to practice.
 ![](listPalsYourMatches.png)
 
+Users can click the Add Meeting button to setup a meeting with other members, they can specify time, place, language, and additional notes.
+![](addMeeting.png)
+
+Once meetings have been made if they click the Your Meetings button it will show all of their meetings that they have made or been invited to.
+![](yourMeetings.png)
+
+From this page you can edit the meeting details, but more importantly you can invite member to join by clicking the Add Members button on the meeting cards.
+![](addMembers.png)
+
 If a user wants to change their existing profile they can visit the edit profile page by clicking on the edit profile link from the profile dropdown located in the navbar:
 ![](editProfilePage.png)
 
