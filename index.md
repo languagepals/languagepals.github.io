@@ -100,7 +100,7 @@ Our Goals for this milestone are to add features so that:
 -The ability for the admin to delete profiles
 
 # Milestone 3
-This milestone started on Tuesday April 24th, 2018.
+This milestone started on Tuesday April 24th, 2018, and was completed May 4th, 2018.
 [Language Pals Milestone 3 Project](https://github.com/languagepals/languagepals/projects/3)
 
 Our Goals for this milestone are to add features so that:
